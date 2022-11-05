@@ -1,0 +1,82 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    margin-top: 30px;
+}
+.card{
+    height: 890px;
+    width: 590px;
+    border: 1px solid gainsboro;
+    border-radius: 15px;
+    margin: 0 auto;
+    
+}
+.card-1{
+    position: relative;
+}
+.episodes{
+
+    font-weight: 500;
+    position: absolute;  
+    top: 0%;
+    color: rgb(7, 7, 7);
+    background-color: rgb(223, 221, 221);
+    padding: 10px 20px;
+    margin: 40px;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+.image{
+   max-width: 100%;
+   
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+   
+}
+.subs{
+      display: flex;
+      align-items: center;
+     color: rgb(113, 113, 113);
+     font-size: 22px;
+     font-weight: 500;
+     margin-top: 25px;
+     margin-left: 30px;
+    
+     /* width: 400px; */
+     /* height: 50px; */
+     /* border: 1px solid black; */
+}
+.subs-lock{
+   width: 25px;
+   margin-top: 5px;
+   
+}
+.discription{
+    margin: 0px 30px;
+}
+.disc-head{
+    margin: 0%;
+    padding: 0%;
+    font-size: 40px;
+}
+.disc-body{
+    font-size: 25px;
+    color: rgb(97, 97, 97) ;
+    font-weight: 480;
+   
+}
+.detail{
+    margin: 60px 0px;
+}
+.det{
+    padding:20px 30px;
+    border: 1px solid gainsboro;
+    margin: 30px;
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: 500;
+    color: rgb(7, 145, 250);
+}
